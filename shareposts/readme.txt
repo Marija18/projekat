@@ -1,0 +1,1 @@
+unzip public folder and add it to shareposts
